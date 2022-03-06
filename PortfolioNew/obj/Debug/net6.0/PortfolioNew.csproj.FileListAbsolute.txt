@@ -24,3 +24,10 @@
 /Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/obj/Debug/net6.0/PortfolioNew.pdb
 /Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/obj/Debug/net6.0/PortfolioNew.genruntimeconfig.cache
 /Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/obj/Debug/net6.0/ref/PortfolioNew.dll
+/Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/bin/Debug/net6.0/MailKit.dll
+/Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/bin/Debug/net6.0/MimeKit.dll
+/Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/bin/Debug/net6.0/NETCore.MailKit.dll
+/Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/bin/Debug/net6.0/Portfolio.Misc.dll
+/Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/bin/Debug/net6.0/Portfolio.Misc.pdb
+/Users/tagir/Documents/DOT.NET CORE Homework/PortfolioNew/PortfolioNew/obj/Debug/net6.0/PortfolioNew.csproj.CopyComplete
